@@ -324,7 +324,5 @@ This structure is intentional and keeps the plugin maintainable, testable, and e
 
 ## License
 
-This plugin is part of the WebDigiTech tooling ecosystem.
-
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
