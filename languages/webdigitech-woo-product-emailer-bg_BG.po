@@ -1,0 +1,1372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebDigiTech Woo Product Emailer\n"
+"Report-Msgid-Bugs-To: https://webdigitech.de\n"
+"POT-Creation-Date: 2026-03-21 21:01+0000\n"
+"PO-Revision-Date: 2026-03-21 21:15+0000\n"
+"Last-Translator: OpenAI ChatGPT\n"
+"Language-Team: Bulgarian\n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: webdigitech-woo-product-emailer\n"
+"X-Generator: OpenAI ChatGPT\n"
+
+#: includes/Admin/ToolsPage.php:435
+msgid "A default test email recipient should be configured in Settings."
+msgstr "В настройките трябва да бъде зададен получател по подразбиране за тестови имейли."
+
+#: includes/Capabilities.php:55
+msgid "Access denied"
+msgstr "Достъпът е отказан"
+
+#: includes/Dependencies.php:289
+msgid "Activation error"
+msgstr "Грешка при активиране"
+
+#: includes/Admin/SystemStatusPage.php:413
+msgid "Admin CSS Exists"
+msgstr "Админ CSS съществува"
+
+#: includes/Admin/SystemStatusPage.php:295
+msgid "Admin Email"
+msgstr "Админ имейл"
+
+#: includes/Admin/SystemStatusPage.php:414
+msgid "Admin JS Exists"
+msgstr "Админ JS съществува"
+
+#: includes/Admin/LogsPage.php:307
+msgid "All levels"
+msgstr "Всички нива"
+
+#: includes/Admin/LogsPage.php:247
+msgid "All stored log entries."
+msgstr "Всички записани лог записи."
+
+#: includes/Admin/SystemStatusPage.php:338
+msgid "Allowed Order Statuses"
+msgstr "Позволени статуси на поръчките"
+
+#: includes/Admin/SettingsPage.php:414 includes/Admin/SettingsPage.php:417
+#: includes/Admin/ToolsPage.php:337
+msgid "Allowed order statuses"
+msgstr "Позволени статуси на поръчките"
+
+#: includes/Admin/SettingsPage.php:580
+msgid "Allows cron-based retry attempts for dispatches that previously failed."
+msgstr "Позволява cron-базирани повторни опити за изпращания, които преди това са били неуспешни."
+
+#: includes/Admin/SettingsPage.php:605
+msgid "Allows the plugin to scan recent paid orders for missed dispatch opportunities."
+msgstr "Позволява на плъгина да сканира скорошни платени поръчки за пропуснати възможности за изпращане."
+
+#: includes/Admin/LogsPage.php:326
+msgid "Apply Filters"
+msgstr "Приложи филтрите"
+
+#: includes/Admin/SystemStatusPage.php:238
+#: includes/Admin/SystemStatusPage.php:404
+msgid "Assets & Storage"
+msgstr "Ресурси и съхранение"
+
+#: includes/Admin/SystemStatusPage.php:412
+msgid "Assets Directory Exists"
+msgstr "Директорията assets съществува"
+
+#: includes/Admin/SystemStatusPage.php:239
+msgid "Available"
+msgstr "Налично"
+
+#: includes/Admin/SettingsPage.php:675
+msgid "Available Template Placeholders"
+msgstr "Налични placeholders за шаблона"
+
+#: includes/Admin/SettingsPage.php:345
+msgid "Background safety logic for failed or missed sends."
+msgstr "Фонова защитна логика за неуспешни или пропуснати изпращания."
+
+#: includes/Admin/ToolsPage.php:414
+msgid "Before enabling real customer dispatch, verify the following conditions."
+msgstr "Преди да активираш реално изпращане до клиенти, провери следните условия."
+
+#: includes/Admin/SettingsPage.php:721
+msgid "Cancelled"
+msgstr "Отказана"
+
+#: includes/Admin/LogsPage.php:315 includes/Admin/LogsPage.php:362
+msgid "Channel"
+msgstr "Канал"
+
+#: includes/Admin/SystemStatusPage.php:282
+#: includes/Admin/SystemStatusPage.php:321
+#: includes/Admin/SystemStatusPage.php:372
+#: includes/Admin/SystemStatusPage.php:406
+msgid "Check"
+msgstr "Проверка"
+
+#: includes/Admin/SystemStatusPage.php:385
+msgid "Cleanup Hook"
+msgstr "Cleanup hook"
+
+#: includes/Admin/SystemStatusPage.php:387
+msgid "Cleanup Next Run"
+msgstr "Следващо cleanup изпълнение"
+
+#: includes/Admin/SystemStatusPage.php:386
+msgid "Cleanup Scheduled"
+msgstr "Планиран cleanup"
+
+#: includes/Admin/SettingsPage.php:719
+msgid "Completed"
+msgstr "Завършена"
+
+#: includes/Product/ProductEmailFields.php:108
+msgid "Configure a custom email template for this product. When custom email is disabled, the plugin will use the global fallback template if available."
+msgstr "Конфигурирай персонализиран имейл шаблон за този продукт. Когато персонализираният имейл е изключен, плъгинът ще използва глобалния fallback шаблон, ако е наличен."
+
+#: includes/Admin/SettingsPage.php:495
+msgid "Configure the default recipient for test emails, the message content type and optional sender overrides used by the mailer."
+msgstr "Конфигурирай получателя по подразбиране за тестови имейли, типа на съдържанието и незадължителните замествания на подателя, използвани от mailer-а."
+
+#: includes/Admin/SettingsPage.php:50
+msgid "Configure the global fallback template, delivery rules, logging, retry logic and diagnostics for product-based customer emails."
+msgstr "Конфигурирай глобалния fallback шаблон, правилата за доставка, логването, retry логиката и диагностиката за продуктово-базирани клиентски имейли."
+
+#: includes/Admin/LogsPage.php:364
+msgid "Context"
+msgstr "Контекст"
+
+#: includes/Admin/SettingsPage.php:395
+msgid "Control whether the plugin is active globally, whether the fallback template can be used and on which WooCommerce order statuses customer emails may be dispatched."
+msgstr "Контролира дали плъгинът е активен глобално, дали fallback шаблонът може да се използва и при кои WooCommerce статуси на поръчка могат да се изпращат клиентски имейли."
+
+#: includes/Admin/ToolsPage.php:160
+msgid "Controls automatic retry attempts for failed dispatches."
+msgstr "Контролира автоматичните повторни опити за неуспешни изпращания."
+
+#: includes/Admin/ToolsPage.php:167
+msgid "Controls background recovery scans for missed dispatch opportunities."
+msgstr "Контролира фоновите recovery сканирания за пропуснати възможности за изпращане."
+
+#: includes/Admin/ToolsPage.php:153
+msgid "Controls whether operational records are stored in the database log table."
+msgstr "Контролира дали оперативните записи се съхраняват в лог таблицата на базата данни."
+
+#: includes/Admin/LogsPage.php:365
+msgid "Created At"
+msgstr "Създадено на"
+
+#: includes/Admin/LogsPage.php:253
+msgid "Critical failures and hard send errors."
+msgstr "Критични сривове и тежки грешки при изпращане."
+
+#: includes/Admin/SystemStatusPage.php:231
+#: includes/Admin/SystemStatusPage.php:370
+msgid "Cron Scheduling"
+msgstr "Cron планиране"
+
+#: includes/Admin/Admin.php:283
+msgid "Current plugin snapshot"
+msgstr "Текущ snapshot на плъгина"
+
+#: includes/Admin/ToolsPage.php:332
+msgid "Current value"
+msgstr "Текуща стойност"
+
+#: includes/Product/ProductEmailFields.php:482
+msgid "Custom email is enabled, but the template is incomplete. Add at least a subject and either HTML body or text body."
+msgstr "Персонализираният имейл е активиран, но шаблонът е непълен. Добави поне тема и HTML тяло или текстово тяло."
+
+#: includes/Product/ProductEmailFields.php:475
+msgid "Custom product email exists, but product-level sending is currently disabled."
+msgstr "Има персонализиран продуктов имейл, но изпращането на ниво продукт в момента е изключено."
+
+#: includes/Product/ProductEmailFields.php:468
+msgid "Custom product email is disabled. The product will use the global fallback template if one is configured."
+msgstr "Персонализираният продуктов имейл е изключен. Продуктът ще използва глобалния fallback шаблон, ако е конфигуриран."
+
+#: includes/Admin/SettingsPage.php:664
+msgid "Customer email address"
+msgstr "Имейл адрес на клиента"
+
+#: includes/Admin/SettingsPage.php:661
+msgid "Customer first name"
+msgstr "Собствено име на клиента"
+
+#: includes/Admin/SettingsPage.php:663
+msgid "Customer full name"
+msgstr "Пълно име на клиента"
+
+#: includes/Admin/SettingsPage.php:662
+msgid "Customer last name"
+msgstr "Фамилия на клиента"
+
+#: includes/Admin/SystemStatusPage.php:292
+msgid "DISABLE_WP_CRON"
+msgstr "DISABLE_WP_CRON"
+
+#: includes/Admin/LogsPage.php:495
+msgid "Debug"
+msgstr "Debug"
+
+#: includes/Admin/SystemStatusPage.php:333
+msgid "Debug Mode"
+msgstr "Debug режим"
+
+#: includes/Admin/SettingsPage.php:501
+msgid "Default test email recipient"
+msgstr "Получател по подразбиране за тестови имейли"
+
+#: includes/Admin/SettingsPage.php:523
+msgid "Defines the preferred mail content type used by the mailer."
+msgstr "Определя предпочитания тип на имейл съдържанието, използван от mailer-а."
+
+#: includes/Admin/SettingsPage.php:494
+msgid "Delivery and Sender Settings"
+msgstr "Настройки за доставка и подател"
+
+#: includes/Admin/ToolsPage.php:143 includes/Admin/SystemStatusPage.php:232
+msgid "Detected"
+msgstr "Открито"
+
+#: includes/Admin/SettingsPage.php:403
+msgid "Disable this only if you want to keep the plugin installed but stop all customer email dispatching."
+msgstr "Изключи това само ако искаш плъгинът да остане инсталиран, но да спре цялото изпращане на клиентски имейли."
+
+#: includes/Admin/SettingsPage.php:321 includes/Admin/ToolsPage.php:125
+#: includes/Admin/ToolsPage.php:152 includes/Admin/ToolsPage.php:159
+#: includes/Admin/ToolsPage.php:166
+msgid "Disabled"
+msgstr "Изключено"
+
+#: includes/Admin/Admin.php:213
+msgid "Dispatch logs, filtering and pagination will appear here."
+msgstr "Тук ще се показват dispatch логовете, филтрите и пагинацията."
+
+#: includes/Product/ProductEmailFields.php:158
+msgid "Email HTML body"
+msgstr "HTML тяло на имейла"
+
+#: includes/Product/ProductEmailFields.php:148
+msgid "Email heading"
+msgstr "Заглавие на имейла"
+
+#: includes/Product/ProductEmailFields.php:138
+msgid "Email subject"
+msgstr "Тема на имейла"
+
+#: includes/Product/ProductEmailFields.php:168
+msgid "Email text body"
+msgstr "Текстово тяло на имейла"
+
+#: includes/Product/ProductEmailFields.php:120
+msgid "Enable a dedicated email template for this product."
+msgstr "Активирай отделен имейл шаблон за този продукт."
+
+#: includes/Product/ProductEmailFields.php:118
+msgid "Enable custom email"
+msgstr "Активирай персонализиран имейл"
+
+#: includes/Admin/SettingsPage.php:562
+msgid "Enable database logging"
+msgstr "Активирай логване в базата данни"
+
+#: includes/Admin/SettingsPage.php:637
+msgid "Enable debug mode"
+msgstr "Активирай debug режим"
+
+#: includes/Admin/SettingsPage.php:408
+msgid "Enable fallback email template"
+msgstr "Активирай fallback имейл шаблон"
+
+#: includes/Admin/SettingsPage.php:401
+msgid "Enable plugin processing"
+msgstr "Активирай обработката на плъгина"
+
+#: includes/Product/ProductEmailFields.php:128
+msgid "Enable product email sending"
+msgstr "Активирай изпращането на продуктови имейли"
+
+#: includes/Admin/SettingsPage.php:603
+msgid "Enable recovery scans"
+msgstr "Активирай recovery сканирания"
+
+#: includes/Admin/SettingsPage.php:578
+msgid "Enable retry for failed sends"
+msgstr "Активирай retry за неуспешни изпращания"
+
+#: includes/Admin/SettingsPage.php:320 includes/Admin/SettingsPage.php:746
+#: includes/Admin/ToolsPage.php:125 includes/Admin/ToolsPage.php:152
+#: includes/Admin/ToolsPage.php:159 includes/Admin/ToolsPage.php:166
+msgid "Enabled"
+msgstr "Активирано"
+
+#: includes/Admin/SystemStatusPage.php:217
+#: includes/Admin/SystemStatusPage.php:280
+msgid "Environment"
+msgstr "Среда"
+
+#: includes/Admin/LogsPage.php:498
+msgid "Error"
+msgstr "Грешка"
+
+#: includes/Admin/LogsPage.php:251
+msgid "Errors"
+msgstr "Грешки"
+
+#: includes/Plugin.php:170 includes/Installer.php:209
+msgid "Every 15 Minutes (WebDigiTech Woo Product Emailer)"
+msgstr "На всеки 15 минути (WebDigiTech Woo Product Emailer)"
+
+#: includes/Admin/SettingsPage.php:455
+msgid "Example: Your access details for {product_name}"
+msgstr "Пример: Вашите данни за достъп за {product_name}"
+
+#: includes/Product/ProductEmailFields.php:140
+msgid "Example: Your download for {product_name} is ready"
+msgstr "Пример: Вашето изтегляне за {product_name} е готово"
+
+#: includes/Admin/LogsPage.php:316
+msgid "Example: ajax_test_email"
+msgstr "Пример: ajax_test_email"
+
+#: includes/Admin/SettingsPage.php:723
+msgid "Failed"
+msgstr "Неуспешно"
+
+#: includes/Admin/SettingsPage.php:446
+msgid "Fallback Email Template"
+msgstr "Fallback имейл шаблон"
+
+#: includes/Admin/SystemStatusPage.php:325
+msgid "Fallback Enabled"
+msgstr "Fallback активиран"
+
+#: includes/Admin/SystemStatusPage.php:328
+msgid "Fallback HTML Present"
+msgstr "Има fallback HTML"
+
+#: includes/Admin/SettingsPage.php:467
+msgid "Fallback HTML body"
+msgstr "Fallback HTML тяло"
+
+#: includes/Admin/SystemStatusPage.php:327
+msgid "Fallback Subject Present"
+msgstr "Има fallback тема"
+
+#: includes/Admin/SettingsPage.php:326 includes/Admin/ToolsPage.php:133
+msgid "Fallback Template"
+msgstr "Fallback шаблон"
+
+#: includes/Admin/SystemStatusPage.php:326
+msgid "Fallback Template Valid"
+msgstr "Fallback шаблонът е валиден"
+
+#: includes/Admin/SystemStatusPage.php:329
+msgid "Fallback Text Present"
+msgstr "Има fallback текст"
+
+#: includes/Admin/ToolsPage.php:137
+msgid "Fallback delivery is disabled in settings."
+msgstr "Fallback изпращането е изключено в настройките."
+
+#: includes/Admin/ToolsPage.php:136
+msgid "Fallback delivery is enabled in settings."
+msgstr "Fallback изпращането е активирано в настройките."
+
+#: includes/Admin/ToolsPage.php:425
+msgid "Fallback email delivery should be enabled if some products will rely on the global template."
+msgstr "Fallback имейл доставката трябва да е активирана, ако някои продукти ще разчитат на глобалния шаблон."
+
+#: includes/Admin/Admin.php:287
+msgid "Fallback email enabled:"
+msgstr "Fallback имейлът е активиран:"
+
+#: includes/Admin/SettingsPage.php:460
+msgid "Fallback heading"
+msgstr "Fallback заглавие"
+
+#: includes/Admin/SettingsPage.php:475
+msgid "Fallback plain text body"
+msgstr "Fallback plain text тяло"
+
+#: includes/Admin/SettingsPage.php:453
+msgid "Fallback subject"
+msgstr "Fallback тема"
+
+#: includes/Admin/ToolsPage.php:430
+msgid "Fallback subject and at least one fallback body format should be available."
+msgstr "Трябва да има fallback тема и поне един fallback формат на тяло."
+
+#: includes/Admin/LogsPage.php:297
+msgid "Filters"
+msgstr "Филтри"
+
+#: includes/Admin/SettingsPage.php:394
+msgid "General Rules"
+msgstr "Общи правила"
+
+#: includes/Admin/ToolsPage.php:420
+msgid "Global plugin processing must be enabled in Settings."
+msgstr "Глобалната обработка на плъгина трябва да е активирана в Настройки."
+
+#: includes/Admin/Admin.php:198
+msgid "Global plugin settings and fallback email template will appear here."
+msgstr "Тук ще се показват глобалните настройки на плъгина и fallback имейл шаблонът."
+
+#: includes/Admin/ToolsPage.php:127
+msgid "Global processing is currently active."
+msgstr "Глобалната обработка в момента е активна."
+
+#: includes/Admin/ToolsPage.php:128
+msgid "Global processing is currently turned off."
+msgstr "Глобалната обработка в момента е изключена."
+
+#: includes/Admin/SettingsPage.php:322
+msgid "Global processing switch for the whole plugin."
+msgstr "Глобален превключвател за обработката на целия плъгин."
+
+#: includes/Admin/SettingsPage.php:514
+msgid "HTML email"
+msgstr "HTML имейл"
+
+#: includes/Admin/ToolsPage.php:265
+msgid "Heading"
+msgstr "Заглавие"
+
+#: includes/Admin/SystemStatusPage.php:218
+msgid "Healthy"
+msgstr "Изправно"
+
+#: includes/Admin/SettingsPage.php:614
+msgid "How far back recovery scans should inspect eligible orders."
+msgstr "Колко назад да проверяват recovery сканиранията допустимите поръчки."
+
+#: includes/Admin/SettingsPage.php:573
+msgid "How long log entries should be retained before cleanup routines may remove them."
+msgstr "Колко дълго да се пазят лог записите, преди cleanup задачите да ги премахнат."
+
+#: includes/Admin/LogsPage.php:360
+msgid "ID"
+msgstr "ID"
+
+#: includes/Product/ProductEmailFields.php:130
+msgid "If disabled, this product will not use its own template even when custom email data exists."
+msgstr "Ако е изключено, този продукт няма да използва собствения си шаблон, дори да има персонализирани имейл данни."
+
+#: includes/Admin/ToolsPage.php:293
+msgid "If the send fails, the latest error message will appear here."
+msgstr "Ако изпращането се провали, тук ще се покаже последното съобщение за грешка."
+
+#: includes/Admin/SettingsPage.php:329 includes/Admin/ToolsPage.php:134
+msgid "Incomplete"
+msgstr "Непълно"
+
+#: includes/Admin/LogsPage.php:263 includes/Admin/LogsPage.php:496
+msgid "Info"
+msgstr "Инфо"
+
+#: includes/Product/ProductEmailFields.php:179
+msgid "Internal notes"
+msgstr "Вътрешни бележки"
+
+#: includes/Product/ProductEmailFields.php:181
+msgid "Internal notes for administrators only. This field is never sent to the customer."
+msgstr "Вътрешни бележки само за администратори. Това поле никога не се изпраща на клиента."
+
+#: includes/Admin/SettingsPage.php:646
+msgid "Keep options and custom plugin data when the plugin is uninstalled."
+msgstr "Запази опциите и персонализираните данни на плъгина при деинсталиране."
+
+#: includes/Admin/SystemStatusPage.php:388
+msgid "Last Cleanup Run"
+msgstr "Последно cleanup изпълнение"
+
+#: includes/Admin/SystemStatusPage.php:383
+msgid "Last Recovery Run"
+msgstr "Последно recovery изпълнение"
+
+#: includes/Admin/SystemStatusPage.php:378
+msgid "Last Retry Run"
+msgstr "Последно retry изпълнение"
+
+#: includes/Admin/SettingsPage.php:349
+msgid "Last Test Email"
+msgstr "Последен тестов имейл"
+
+#: includes/Admin/SystemStatusPage.php:352
+msgid "Last Test Email Error"
+msgstr "Последна грешка при тестов имейл"
+
+#: includes/Admin/SystemStatusPage.php:348
+msgid "Last Test Email Sent At"
+msgstr "Последен тестов имейл изпратен на"
+
+#: includes/Admin/SettingsPage.php:356
+msgid "Last error: %s"
+msgstr "Последна грешка: %s"
+
+#: includes/Admin/ToolsPage.php:290
+msgid "Last stored test email error"
+msgstr "Последна записана грешка при тестов имейл"
+
+#: includes/Admin/ToolsPage.php:281
+msgid "Last test email timestamp"
+msgstr "Времеви отпечатък на последния тестов имейл"
+
+#: includes/Admin/LogsPage.php:305 includes/Admin/LogsPage.php:361
+msgid "Level"
+msgstr "Ниво"
+
+#: includes/Admin/LogsPage.php:348
+msgid "Log Entries"
+msgstr "Лог записи"
+
+#: includes/Admin/ToolsPage.php:357
+msgid "Log retention (days)"
+msgstr "Пазене на логове (дни)"
+
+#: includes/Admin/SettingsPage.php:569
+msgid "Log retention in days"
+msgstr "Пазене на логове в дни"
+
+#: includes/Admin/ToolsPage.php:151
+msgid "Logging"
+msgstr "Логване"
+
+#: includes/Admin/SystemStatusPage.php:330
+msgid "Logging Enabled"
+msgstr "Логването е активирано"
+
+#: includes/Admin/Admin.php:288
+msgid "Logging enabled:"
+msgstr "Логването е активирано:"
+
+#: includes/Admin/SettingsPage.php:555
+msgid "Logging, Retry and Recovery"
+msgstr "Логване, Retry и Recovery"
+
+#: includes/Admin/Admin.php:125 includes/Admin/Admin.php:126
+#: includes/Admin/Admin.php:212 includes/Admin/LogsPage.php:44
+msgid "Logs"
+msgstr "Логове"
+
+#: includes/Admin/SystemStatusPage.php:335
+msgid "Logs Table Exists"
+msgstr "Лог таблицата съществува"
+
+#: includes/Admin/SystemStatusPage.php:337
+msgid "Mail Content Type"
+msgstr "Тип на имейл съдържанието"
+
+#: includes/Admin/SettingsPage.php:508 includes/Admin/ToolsPage.php:342
+msgid "Mail content type"
+msgstr "Тип на имейл съдържанието"
+
+#: includes/Admin/SystemStatusPage.php:226
+msgid "Main plugin state, fallback readiness and database table availability."
+msgstr "Основно състояние на плъгина, готовност на fallback-а и наличност на таблицата в базата данни."
+
+#: includes/Admin/ToolsPage.php:413
+msgid "Manual Diagnostics Checklist"
+msgstr "Чеклист за ръчна диагностика"
+
+#: includes/Admin/Admin.php:228
+msgid "Manual test email, maintenance actions and diagnostics tools will appear here."
+msgstr "Тук ще се показват ръчният тестов имейл, действията по поддръжка и диагностичните инструменти."
+
+#: includes/Admin/SystemStatusPage.php:290
+msgid "Max Execution Time"
+msgstr "Максимално време за изпълнение"
+
+#: includes/Admin/ToolsPage.php:352
+msgid "Max retry attempts"
+msgstr "Максимален брой retry опити"
+
+#: includes/Admin/SettingsPage.php:623
+msgid "Maximum number of candidate records handled in a single recovery run."
+msgstr "Максимален брой кандидат записи, обработвани в едно recovery изпълнение."
+
+#: includes/Admin/SettingsPage.php:632
+msgid "Maximum number of failed dispatches processed in a single retry run."
+msgstr "Максимален брой неуспешни изпращания, обработвани в едно retry изпълнение."
+
+#: includes/Admin/SettingsPage.php:594
+msgid "Maximum retry attempts"
+msgstr "Максимален брой retry опити"
+
+#: includes/Admin/SettingsPage.php:681
+msgid "Meaning"
+msgstr "Значение"
+
+#: includes/Admin/SystemStatusPage.php:289
+msgid "Memory Limit"
+msgstr "Лимит на паметта"
+
+#: includes/Admin/LogsPage.php:363
+msgid "Message"
+msgstr "Съобщение"
+
+#: includes/Admin/LogsPage.php:321
+msgid "Message or context text"
+msgstr "Текст на съобщението или контекста"
+
+#: includes/Admin/SettingsPage.php:589
+msgid "Minimum delay between retry attempts."
+msgstr "Минимално забавяне между retry опитите."
+
+#: includes/Admin/SystemStatusPage.php:239
+msgid "Missing files"
+msgstr "Липсващи файлове"
+
+#: includes/Admin/SystemStatusPage.php:288
+msgid "MySQL Version"
+msgstr "MySQL версия"
+
+#: includes/Admin/SystemStatusPage.php:218
+msgid "Needs attention"
+msgstr "Нуждае се от внимание"
+
+#: includes/Admin/LogsPage.php:472
+msgid "Next »"
+msgstr "Следваща »"
+
+#: includes/Admin/SystemStatusPage.php:448
+msgid "No"
+msgstr "Не"
+
+#: includes/Admin/LogsPage.php:351
+msgid "No log entries found for the current filters."
+msgstr "Не са намерени лог записи за текущите филтри."
+
+#: includes/Admin/SettingsPage.php:359
+msgid "No recent test email error stored."
+msgstr "Няма записана скорошна грешка при тестов имейл."
+
+#: includes/Admin/SystemStatusPage.php:349
+#: includes/Admin/SystemStatusPage.php:469
+msgid "No record"
+msgstr "Няма запис"
+
+#: includes/Admin/SystemStatusPage.php:232
+msgid "No schedule detected"
+msgstr "Не е открит график"
+
+#: includes/Admin/ToolsPage.php:55 includes/Admin/SystemStatusPage.php:315
+msgid "No statuses selected"
+msgstr "Не са избрани статуси"
+
+#: includes/Admin/SystemStatusPage.php:353
+msgid "No stored error"
+msgstr "Няма записана грешка"
+
+#: includes/Admin/ToolsPage.php:282
+msgid "No test email has been recorded yet."
+msgstr "Все още няма записан тестов имейл."
+
+#: includes/Admin/SettingsPage.php:352
+msgid "No test email sent yet."
+msgstr "Все още не е изпратен тестов имейл."
+
+#: includes/API/AjaxTestEmail.php:73 includes/API/AjaxTestEmail.php:77
+msgid "No valid recipient email address was provided."
+msgstr "Не е подаден валиден имейл адрес на получателя."
+
+#: includes/Admin/SystemStatusPage.php:175
+msgid "Not available"
+msgstr "Няма наличност"
+
+#: includes/Admin/SystemStatusPage.php:87
+msgid "Not configured"
+msgstr "Не е конфигурирано"
+
+#: includes/Admin/SystemStatusPage.php:80
+msgid "Not detected"
+msgstr "Не е открито"
+
+#: includes/Admin/ToolsPage.php:143
+msgid "Not ready yet"
+msgstr "Все още не е готово"
+
+#: includes/Admin/SystemStatusPage.php:151
+#: includes/Admin/SystemStatusPage.php:152
+#: includes/Admin/SystemStatusPage.php:153
+msgid "Not scheduled"
+msgstr "Не е планирано"
+
+#: includes/Admin/ToolsPage.php:380 includes/Admin/ToolsPage.php:387
+#: includes/Admin/SystemStatusPage.php:341
+#: includes/Admin/SystemStatusPage.php:345
+msgid "Not set"
+msgstr "Не е зададено"
+
+#: includes/Admin/SettingsPage.php:340 includes/Admin/SettingsPage.php:343
+msgid "Off"
+msgstr "Изключено"
+
+#: includes/Admin/SettingsPage.php:339 includes/Admin/SettingsPage.php:342
+msgid "On"
+msgstr "Включено"
+
+#: includes/Admin/SettingsPage.php:720
+msgid "On hold"
+msgstr "Задържана"
+
+#: includes/Admin/SystemStatusPage.php:225
+msgid "Operational"
+msgstr "Оперативно"
+
+#: includes/Admin/LogsPage.php:265
+msgid "Operational and success records."
+msgstr "Оперативни и успешни записи."
+
+#: includes/Admin/ToolsPage.php:268
+msgid "Optional heading rendered at the top of the email."
+msgstr "Незадължително заглавие, визуализирано в горната част на имейла."
+
+#: includes/Admin/SettingsPage.php:462
+#: includes/Product/ProductEmailFields.php:150
+msgid "Optional heading used inside the email template."
+msgstr "Незадължително заглавие, използвано вътре в имейл шаблона."
+
+#: includes/Admin/SettingsPage.php:478
+msgid "Optional plain text version. If left empty and HTML exists, the plugin can derive a text fallback automatically on save."
+msgstr "Незадължителна plain text версия. Ако остане празна и има HTML, плъгинът може автоматично да генерира текстов fallback при запазване."
+
+#: includes/Admin/SettingsPage.php:531
+msgid "Optional. Leave empty to let WordPress / WooCommerce use the default sender name."
+msgstr "Незадължително. Остави празно, за да може WordPress / WooCommerce да използва името на подателя по подразбиране."
+
+#: includes/Admin/SettingsPage.php:538
+msgid "Optional. Leave empty to use the default sender email configured by the site."
+msgstr "Незадължително. Остави празно, за да използваш имейла на подателя по подразбиране, конфигуриран от сайта."
+
+#: includes/Admin/SettingsPage.php:667
+msgid "Order date"
+msgstr "Дата на поръчката"
+
+#: includes/Admin/SystemStatusPage.php:285
+msgid "PHP Version"
+msgstr "PHP версия"
+
+#: includes/Admin/SystemStatusPage.php:219
+msgid "PHP, WordPress, WooCommerce and server runtime checks."
+msgstr "Проверки на PHP, WordPress, WooCommerce и сървърната runtime среда."
+
+#: includes/Admin/SystemStatusPage.php:225
+msgid "Partially ready"
+msgstr "Частично готово"
+
+#: includes/Admin/SettingsPage.php:717
+msgid "Pending payment"
+msgstr "Чакаща плащане"
+
+#: includes/Admin/SettingsPage.php:680
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: includes/Admin/ToolsPage.php:273
+msgid "Plain text body"
+msgstr "Plain text тяло"
+
+#: includes/Product/ProductEmailFields.php:170
+msgid "Plain text fallback version. If left empty and HTML exists, text may be generated automatically."
+msgstr "Plain text fallback версия. Ако остане празна и има HTML, текстът може да бъде генериран автоматично."
+
+#: includes/Admin/SettingsPage.php:513
+msgid "Plain text only"
+msgstr "Само plain text"
+
+#: includes/Admin/ToolsPage.php:124
+msgid "Plugin"
+msgstr "Плъгин"
+
+#: includes/Admin/SystemStatusPage.php:409
+msgid "Plugin Directory"
+msgstr "Директория на плъгина"
+
+#: includes/Admin/SystemStatusPage.php:410
+msgid "Plugin Directory Exists"
+msgstr "Директорията на плъгина съществува"
+
+#: includes/Admin/SystemStatusPage.php:411
+msgid "Plugin Directory Readable"
+msgstr "Директорията на плъгина е четима"
+
+#: includes/Admin/SystemStatusPage.php:324
+msgid "Plugin Enabled"
+msgstr "Плъгинът е активиран"
+
+#: includes/Admin/SystemStatusPage.php:224
+#: includes/Admin/SystemStatusPage.php:319
+msgid "Plugin Runtime"
+msgstr "Runtime на плъгина"
+
+#: includes/Admin/SettingsPage.php:318
+msgid "Plugin Status"
+msgstr "Статус на плъгина"
+
+#: includes/Dependencies.php:276
+msgid "Plugin activation failed"
+msgstr "Активирането на плъгина се провали"
+
+#: includes/Admin/SystemStatusPage.php:240
+msgid "Plugin directory, assets folder and admin frontend files."
+msgstr "Директория на плъгина, assets папка и admin frontend файлове."
+
+#: includes/Admin/Admin.php:286
+msgid "Plugin enabled:"
+msgstr "Плъгинът е активиран:"
+
+#: includes/Admin/FooterRenderer.php:45
+msgid "Plugin version: %s"
+msgstr "Версия на плъгина: %s"
+
+#: includes/Admin/SystemStatusPage.php:334
+msgid "Preserve Data on Uninstall"
+msgstr "Запазване на данните при деинсталиране"
+
+#: includes/Admin/SettingsPage.php:644
+msgid "Preserve data on uninstall"
+msgstr "Запази данните при деинсталиране"
+
+#: includes/Admin/SettingsPage.php:718
+msgid "Processing"
+msgstr "Обработка"
+
+#: includes/Product/ProductEmailFields.php:70
+msgid "Product Email"
+msgstr "Продуктов имейл"
+
+#: includes/Admin/SettingsPage.php:49
+msgid "Product Email Settings"
+msgstr "Настройки на продуктов имейл"
+
+#: includes/Admin/Admin.php:105 includes/Admin/Admin.php:106
+msgid "Product Emails"
+msgstr "Продуктови имейли"
+
+#: includes/Admin/SystemStatusPage.php:415
+msgid "Product Panel CSS Exists"
+msgstr "CSS за продуктови панел съществува"
+
+#: includes/Admin/SystemStatusPage.php:416
+msgid "Product Panel JS Exists"
+msgstr "JS за продуктов панел съществува"
+
+#: includes/Admin/SettingsPage.php:669
+msgid "Product name"
+msgstr "Име на продукта"
+
+#: includes/Product/ProductEmailFields.php:106
+msgid "Product-specific customer email template"
+msgstr "Клиентски имейл шаблон, специфичен за продукта"
+
+#: includes/Admin/ToolsPage.php:327
+msgid "Quick summary of the operational configuration currently loaded from plugin settings."
+msgstr "Кратко обобщение на оперативната конфигурация, заредена в момента от настройките на плъгина."
+
+#: includes/Admin/SettingsPage.php:328 includes/Admin/ToolsPage.php:134
+msgid "Ready"
+msgstr "Готово"
+
+#: includes/Admin/ToolsPage.php:249
+msgid "Recipient"
+msgstr "Получател"
+
+#: includes/Admin/ToolsPage.php:165
+msgid "Recovery"
+msgstr "Recovery"
+
+#: includes/Admin/SystemStatusPage.php:332
+msgid "Recovery Enabled"
+msgstr "Recovery е активирано"
+
+#: includes/Admin/SystemStatusPage.php:380
+msgid "Recovery Hook"
+msgstr "Recovery hook"
+
+#: includes/Admin/SystemStatusPage.php:382
+msgid "Recovery Next Run"
+msgstr "Следващо recovery изпълнение"
+
+#: includes/Admin/SystemStatusPage.php:381
+msgid "Recovery Scheduled"
+msgstr "Планиран recovery"
+
+#: includes/Admin/SettingsPage.php:619 includes/Admin/ToolsPage.php:367
+msgid "Recovery batch limit"
+msgstr "Recovery batch лимит"
+
+#: includes/Admin/Admin.php:290
+msgid "Recovery enabled:"
+msgstr "Recovery е активирано:"
+
+#: includes/Admin/ToolsPage.php:362
+msgid "Recovery lookback (hours)"
+msgstr "Recovery обхват назад (часове)"
+
+#: includes/Admin/SettingsPage.php:610
+msgid "Recovery lookback in hours"
+msgstr "Recovery обхват назад в часове"
+
+#: includes/Admin/SettingsPage.php:722
+msgid "Refunded"
+msgstr "Възстановена"
+
+#: includes/Admin/LogsPage.php:331
+msgid "Reset"
+msgstr "Нулиране"
+
+#: includes/Admin/ToolsPage.php:158
+msgid "Retry"
+msgstr "Retry"
+
+#: includes/Admin/SettingsPage.php:334
+msgid "Retry / Recovery"
+msgstr "Retry / Recovery"
+
+#: includes/Admin/SystemStatusPage.php:331
+msgid "Retry Enabled"
+msgstr "Retry е активирано"
+
+#: includes/Admin/SystemStatusPage.php:375
+msgid "Retry Hook"
+msgstr "Retry hook"
+
+#: includes/Admin/SystemStatusPage.php:377
+msgid "Retry Next Run"
+msgstr "Следващо retry изпълнение"
+
+#: includes/Admin/SystemStatusPage.php:376
+msgid "Retry Scheduled"
+msgstr "Планиран retry"
+
+#: includes/Admin/SettingsPage.php:628 includes/Admin/ToolsPage.php:372
+msgid "Retry batch limit"
+msgstr "Retry batch лимит"
+
+#: includes/Admin/Admin.php:289
+msgid "Retry enabled:"
+msgstr "Retry е активирано:"
+
+#: includes/Admin/ToolsPage.php:347
+msgid "Retry interval (minutes)"
+msgstr "Retry интервал (минути)"
+
+#: includes/Admin/SettingsPage.php:585
+msgid "Retry interval in minutes"
+msgstr "Retry интервал в минути"
+
+#: includes/Admin/SystemStatusPage.php:233
+msgid "Retry, recovery and cleanup background events."
+msgstr "Фонови събития за retry, recovery и cleanup."
+
+#: includes/Admin/SettingsPage.php:337
+msgid "Retry: %1$s | Recovery: %2$s"
+msgstr "Retry: %1$s | Recovery: %2$s"
+
+#: includes/Dependencies.php:285
+msgid "Return to Plugins page"
+msgstr "Върни се към страницата с плъгините"
+
+#: includes/Admin/LogsPage.php:45
+msgid "Review plugin activity, email dispatch attempts, test email events and operational errors stored in the plugin log table."
+msgstr "Прегледай активността на плъгина, опитите за изпращане на имейли, събитията с тестови имейли и оперативните грешки, записани в лог таблицата на плъгина."
+
+#: includes/Admin/SystemStatusPage.php:42
+msgid "Review the current runtime environment, plugin readiness, WordPress and WooCommerce integration state, cron scheduling and storage health."
+msgstr "Прегледай текущата runtime среда, готовността на плъгина, състоянието на интеграцията с WordPress и WooCommerce, cron планирането и състоянието на съхранението."
+
+#: includes/Product/ProductEmailFields.php:160
+msgid "Rich HTML version of the customer email. Allowed HTML is sanitized on save."
+msgstr "Богата HTML версия на клиентския имейл. Разрешеният HTML се почиства при запис."
+
+#: includes/Admin/ToolsPage.php:326
+msgid "Runtime Summary"
+msgstr "Обобщение на runtime-а"
+
+#: includes/Admin/Admin.php:243
+msgid "Runtime checks, cron status and environment diagnostics will appear here."
+msgstr "Тук ще се показват runtime проверките, cron статусът и диагностиката на средата."
+
+#: includes/Admin/SystemStatusPage.php:293
+msgid "SSL Enabled"
+msgstr "SSL е активиран"
+
+#: includes/Admin/SettingsPage.php:69
+msgid "Save Settings"
+msgstr "Запази настройките"
+
+#: includes/Admin/LogsPage.php:320
+msgid "Search"
+msgstr "Търси"
+
+#: includes/Admin/SettingsPage.php:103
+msgid "Security check failed. Please reload the page and try again."
+msgstr "Проверката за сигурност не бе успешна. Презареди страницата и опитай отново."
+
+#: includes/Admin/ToolsPage.php:301
+msgid "Send Test Email"
+msgstr "Изпрати тестов имейл"
+
+#: includes/Admin/SystemStatusPage.php:344
+msgid "Sender Email Override"
+msgstr "Замяна на имейла на подателя"
+
+#: includes/Admin/SystemStatusPage.php:340
+msgid "Sender Name Override"
+msgstr "Замяна на името на подателя"
+
+#: includes/Admin/SettingsPage.php:536 includes/Admin/ToolsPage.php:384
+msgid "Sender email override"
+msgstr "Замяна на имейла на подателя"
+
+#: includes/Admin/SettingsPage.php:529 includes/Admin/ToolsPage.php:377
+msgid "Sender name override"
+msgstr "Замяна на името на подателя"
+
+#: includes/Admin/ToolsPage.php:331
+msgid "Setting"
+msgstr "Настройка"
+
+#: includes/Plugin.php:195 includes/Admin/Admin.php:116
+#: includes/Admin/Admin.php:117 includes/Admin/Admin.php:197
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/Admin/SettingsPage.php:134
+msgid "Settings saved successfully."
+msgstr "Настройките бяха запазени успешно."
+
+#: includes/Admin/SystemStatusPage.php:294
+msgid "Site URL"
+msgstr "URL на сайта"
+
+#: includes/Admin/LogsPage.php:259
+msgid "Soft issues and recoverable events."
+msgstr "По-леки проблеми и възстановими събития."
+
+#: includes/Admin/Admin.php:338
+msgid "Something went wrong. Please try again."
+msgstr "Нещо се обърка. Моля, опитай отново."
+
+#: includes/Capabilities.php:51
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Съжаляваме, нямаш право на достъп до тази страница."
+
+#: includes/Admin/SettingsPage.php:564
+msgid "Stores dispatch history and operational records in the plugin log table."
+msgstr "Съхранява dispatch историята и оперативните записи в лог таблицата на плъгина."
+
+#: includes/Admin/ToolsPage.php:257
+msgid "Subject"
+msgstr "Тема"
+
+#: includes/Product/ProductEmailFields.php:413
+msgid "Supported placeholders"
+msgstr "Поддържани placeholders"
+
+#: includes/Admin/Admin.php:143 includes/Admin/Admin.php:144
+#: includes/Admin/Admin.php:242 includes/Admin/SystemStatusPage.php:41
+msgid "System Status"
+msgstr "Системен статус"
+
+#: includes/Admin/ToolsPage.php:252
+msgid "Target address for the diagnostic email."
+msgstr "Целеви адрес за диагностичния имейл."
+
+#: includes/Product/ProductEmailFields.php:464
+msgid "Template status"
+msgstr "Статус на шаблона"
+
+#: includes/API/AjaxTestEmail.php:340
+msgid "Test"
+msgstr "Тест"
+
+#: includes/Admin/ToolsPage.php:227 includes/Admin/ToolsPage.php:236
+#: includes/API/AjaxTestEmail.php:272
+msgid "Test Email"
+msgstr "Тестов имейл"
+
+#: includes/Admin/ToolsPage.php:142
+msgid "Test Email Handler"
+msgstr "Handler за тестов имейл"
+
+#: includes/Admin/SystemStatusPage.php:336
+msgid "Test Email Recipient Set"
+msgstr "Зададен е получател за тестов имейл"
+
+#: includes/API/AjaxTestEmail.php:348
+msgid "Test Product"
+msgstr "Тестов продукт"
+
+#: includes/API/AjaxTestEmail.php:342
+msgid "Test User"
+msgstr "Тестов потребител"
+
+#: includes/API/AjaxTestEmail.php:157
+msgid "Test email failed: %s"
+msgstr "Тестовият имейл се провали: %s"
+
+#: includes/Admin/ToolsPage.php:223 includes/API/AjaxTestEmail.php:257
+msgid "Test email from Product Email plugin"
+msgstr "Тестов имейл от плъгина Product Email"
+
+#: includes/API/AjaxTestEmail.php:147
+msgid "Test email sent successfully."
+msgstr "Тестовият имейл беше изпратен успешно."
+
+#: includes/Admin/ToolsPage.php:145
+msgid "The AJAX entry point can be wired by the admin runtime."
+msgstr "AJAX входната точка може да бъде вързана от admin runtime-а."
+
+#: includes/Admin/ToolsPage.php:307
+msgid "The button remains disabled until the AJAX handler is available."
+msgstr "Бутонът остава изключен, докато AJAX handler-ът не е наличен."
+
+#: includes/Admin/ToolsPage.php:146
+msgid "The dedicated AJAX test-email backend is not finished yet."
+msgstr "Специализираният AJAX backend за тестови имейли все още не е завършен."
+
+#: includes/Admin/ToolsPage.php:242
+msgid "The dedicated test-email AJAX handler is not finished yet. This page is ready, but the actual send action will be available after the backend handler is completed."
+msgstr "Специализираният AJAX handler за тестови имейли все още не е завършен. Страницата е готова, но реалното изпращане ще бъде налично след завършване на backend handler-а."
+
+#: includes/Admin/LogsPage.php:48
+msgid "The log table does not exist yet. Activate or reinstall the plugin setup routine before using the logs screen."
+msgstr "Лог таблицата все още не съществува. Активирай или преинсталирай setup рутината на плъгина, преди да използваш страницата с логовете."
+
+#: includes/API/AjaxTestEmail.php:59 includes/API/AjaxTestEmail.php:63
+msgid "The plugin is currently disabled in settings."
+msgstr "Плъгинът в момента е изключен в настройките."
+
+#: includes/Product/ProductEmailFields.php:489
+msgid "The product-specific email template looks complete."
+msgstr "Имейл шаблонът, специфичен за продукта, изглежда завършен."
+
+#: includes/Admin/ToolsPage.php:305
+msgid "The request will be sent through admin AJAX without reloading the page."
+msgstr "Заявката ще бъде изпратена чрез admin AJAX без презареждане на страницата."
+
+#: includes/Admin/ToolsPage.php:240
+msgid "The test-email backend handler is available. The button below can now send the test email asynchronously."
+msgstr "Backend handler-ът за тестови имейли е наличен. Бутонът по-долу вече може да изпраща тестовия имейл асинхронно."
+
+#: includes/Admin/ToolsPage.php:440
+msgid "The test-email backend handler should be implemented before the test button is enabled."
+msgstr "Backend handler-ът за тестови имейли трябва да бъде имплементиран, преди да се активира тестовият бутон."
+
+#: includes/Admin/SettingsPage.php:556
+msgid "These settings control database logging, retry attempts for failed sends, recovery scans for missed dispatches and low-level debugging behavior."
+msgstr "Тези настройки контролират логването в базата данни, retry опитите за неуспешни изпращания, recovery сканиранията за пропуснати изпращания и ниско-нивовото debug поведение."
+
+#: includes/Admin/SettingsPage.php:503
+msgid "This address can be prefilled on the Tools page for manual test sends."
+msgstr "Този адрес може да бъде предварително попълнен на страницата Tools за ръчни тестови изпращания."
+
+#: includes/Admin/ToolsPage.php:233 includes/API/AjaxTestEmail.php:287
+#: includes/API/AjaxTestEmail.php:307
+msgid "This is a diagnostic test email generated from the plugin tools page."
+msgstr "Това е диагностичен тестов имейл, генериран от страницата Tools на плъгина."
+
+#: includes/Admin/Admin.php:284
+msgid "This page is already connected to the plugin runtime. The dedicated UI for this section is the next implementation step."
+msgstr "Тази страница вече е свързана с runtime-а на плъгина. Специализираният UI за тази секция е следващата стъпка по имплементацията."
+
+#: includes/Admin/SettingsPage.php:447
+msgid "This template is used when a product does not have its own custom email content. Keep the subject and at least one body format filled in if you want fallback delivery to work."
+msgstr "Този шаблон се използва, когато продуктът няма собствено персонализирано имейл съдържание. Поддържай попълнени темата и поне един формат на тяло, ако искаш fallback доставката да работи."
+
+#: includes/Admin/ToolsPage.php:276
+msgid "This text is sent to the AJAX handler as the test message body."
+msgstr "Този текст се изпраща към AJAX handler-а като тяло на тестовото съобщение."
+
+#: includes/Plugin.php:200 includes/Admin/Admin.php:134
+#: includes/Admin/Admin.php:135 includes/Admin/Admin.php:227
+#: includes/Admin/ToolsPage.php:58
+msgid "Tools"
+msgstr "Инструменти"
+
+#: includes/Admin/LogsPage.php:245
+msgid "Total Logs"
+msgstr "Общо логове"
+
+#: includes/Admin/SystemStatusPage.php:81
+#: includes/Admin/SystemStatusPage.php:82
+#: includes/Admin/SystemStatusPage.php:83
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: includes/Admin/ToolsPage.php:284
+msgid "Updated automatically after a successful send."
+msgstr "Обновява се автоматично след успешно изпращане."
+
+#: includes/Admin/SettingsPage.php:598
+msgid "Upper limit for how many times a failed dispatch may be retried."
+msgstr "Горна граница за това колко пъти може да се повтаря неуспешно изпращане."
+
+#: includes/Admin/SettingsPage.php:428
+msgid "Use WooCommerce statuses without the wc- prefix. The plugin will only send customer emails when the order reaches one of the selected statuses."
+msgstr "Използвай WooCommerce статуси без префикса wc-. Плъгинът ще изпраща клиентски имейли само когато поръчката достигне един от избраните статуси."
+
+#: includes/Admin/SettingsPage.php:676
+msgid "Use these placeholders inside the subject, heading or body fields of your fallback template and product-specific templates."
+msgstr "Използвай тези placeholders в полетата за тема, заглавие или тяло на fallback шаблона и продуктово-специфичните шаблони."
+
+#: includes/Admin/ToolsPage.php:237
+msgid "Use this form to send a real diagnostic email through the plugin mailer. You can adjust recipient, subject, heading and body before sending."
+msgstr "Използвай тази форма, за да изпратиш реален диагностичен имейл чрез mailer-а на плъгина. Можеш да коригираш получателя, темата, заглавието и тялото преди изпращане."
+
+#: includes/Admin/ToolsPage.php:59
+msgid "Use this page to verify operational readiness, prepare manual test sending and inspect the current runtime state of the plugin."
+msgstr "Използвай тази страница, за да провериш оперативната готовност, да подготвиш ръчно тестово изпращане и да инспектираш текущото runtime състояние на плъгина."
+
+#: includes/Admin/SettingsPage.php:330
+msgid "Used when a product has no dedicated email template."
+msgstr "Използва се, когато продуктът няма отделен имейл шаблон."
+
+#: includes/API/AjaxTestEmail.php:341
+msgid "User"
+msgstr "Потребител"
+
+#: includes/Admin/SystemStatusPage.php:282
+#: includes/Admin/SystemStatusPage.php:321
+#: includes/Admin/SystemStatusPage.php:372
+#: includes/Admin/SystemStatusPage.php:406
+msgid "Value"
+msgstr "Стойност"
+
+#: includes/Admin/SystemStatusPage.php:291
+msgid "WP_DEBUG"
+msgstr "WP_DEBUG"
+
+#: includes/Admin/LogsPage.php:497
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: includes/Admin/LogsPage.php:257
+msgid "Warnings"
+msgstr "Предупреждения"
+
+#: includes/Dependencies.php:118
+msgid "WebDigiTech Woo Product Emailer"
+msgstr "WebDigiTech Woo Product Emailer"
+
+#: webdigitech-woo-product-emailer.php:66
+msgid "WebDigiTech Woo Product Emailer cannot start because a required file is missing: %s"
+msgstr "WebDigiTech Woo Product Emailer не може да стартира, защото липсва необходим файл: %s"
+
+#: includes/Dependencies.php:91
+msgid "WebDigiTech Woo Product Emailer cannot start because one or more required WordPress or WooCommerce functions are unavailable."
+msgstr "WebDigiTech Woo Product Emailer не може да стартира, защото една или повече необходими WordPress или WooCommerce функции не са налични."
+
+#: includes/Dependencies.php:277
+msgid "WebDigiTech Woo Product Emailer could not be activated because the environment requirements are not satisfied."
+msgstr "WebDigiTech Woo Product Emailer не можа да бъде активиран, защото изискванията към средата не са изпълнени."
+
+#: webdigitech-woo-product-emailer.php:127
+msgid "WebDigiTech Woo Product Emailer could not be activated because the installer class is missing."
+msgstr "WebDigiTech Woo Product Emailer не можа да бъде активиран, защото липсва installer класът."
+
+#: includes/Installer.php:77
+msgid "WebDigiTech Woo Product Emailer could not complete the database migration process."
+msgstr "WebDigiTech Woo Product Emailer не можа да завърши процеса по миграция на базата данни."
+
+#: includes/Installer.php:66
+msgid "WebDigiTech Woo Product Emailer could not run the database migrations because the Migrations class is missing."
+msgstr "WebDigiTech Woo Product Emailer не можа да изпълни миграциите на базата данни, защото липсва класът Migrations."
+
+#: includes/Dependencies.php:61
+msgid "WebDigiTech Woo Product Emailer requires PHP %1$s or newer. Current version: %2$s."
+msgstr "WebDigiTech Woo Product Emailer изисква PHP %1$s или по-нова версия. Текуща версия: %2$s."
+
+#: includes/Dependencies.php:84
+msgid "WebDigiTech Woo Product Emailer requires WooCommerce %1$s or newer. Current version: %2$s."
+msgstr "WebDigiTech Woo Product Emailer изисква WooCommerce %1$s или по-нова версия. Текуща версия: %2$s."
+
+#: includes/Dependencies.php:77
+msgid "WebDigiTech Woo Product Emailer requires WooCommerce to be installed and active."
+msgstr "WebDigiTech Woo Product Emailer изисква WooCommerce да е инсталиран и активен."
+
+#: includes/Dependencies.php:70
+msgid "WebDigiTech Woo Product Emailer requires WordPress %1$s or newer. Current version: %2$s."
+msgstr "WebDigiTech Woo Product Emailer изисква WordPress %1$s или по-нова версия. Текуща версия: %2$s."
+
+#: includes/Admin/Admin.php:182
+msgid "WebDigiTech Woo Product Emailer — version %s"
+msgstr "WebDigiTech Woo Product Emailer — версия %s"
+
+#: includes/Admin/SettingsPage.php:671
+msgid "Website URL"
+msgstr "URL на уебсайта"
+
+#: includes/Admin/SettingsPage.php:670
+msgid "Website name"
+msgstr "Име на уебсайта"
+
+#: includes/Admin/SettingsPage.php:410
+msgid "When enabled, products without a custom template may use the global fallback template configured below."
+msgstr "Когато е активирано, продукти без персонализиран шаблон могат да използват конфигурирания по-долу глобален fallback шаблон."
+
+#: includes/Admin/SettingsPage.php:639
+msgid "When enabled, the plugin may write additional diagnostics to the PHP error log."
+msgstr "Когато е активирано, плъгинът може да записва допълнителна диагностика в PHP error log-а."
+
+#: includes/Admin/SystemStatusPage.php:287
+msgid "WooCommerce Version"
+msgstr "WooCommerce версия"
+
+#: includes/Admin/SettingsPage.php:665
+msgid "WooCommerce order ID"
+msgstr "WooCommerce order ID"
+
+#: includes/Admin/SettingsPage.php:666
+msgid "WooCommerce order number"
+msgstr "WooCommerce номер на поръчка"
+
+#: includes/Admin/SettingsPage.php:668
+msgid "WooCommerce product ID"
+msgstr "WooCommerce product ID"
+
+#: includes/Admin/SystemStatusPage.php:286
+msgid "WordPress Version"
+msgstr "WordPress версия"
+
+#: includes/Admin/SystemStatusPage.php:447
+msgid "Yes"
+msgstr "Да"
+
+#: includes/Admin/SettingsPage.php:110
+msgid "You are not allowed to manage these settings."
+msgstr "Нямаш право да управляваш тези настройки."
+
+#: includes/API/AjaxTestEmail.php:48
+msgid "You are not allowed to perform this action."
+msgstr "Нямаш право да извършиш това действие."
+
+#: includes/Admin/ToolsPage.php:260
+msgid "You can use the current fallback subject as the starting point."
+msgstr "Можеш да използваш текущата fallback тема като начална точка."
+
+#: includes/Product/ProductEmailFields.php:415
+msgid "You can use the following placeholders inside subject, heading and body fields:"
+msgstr "Можеш да използваш следните placeholders в полетата за тема, заглавие и тяло:"
+
+#: includes/Admin/SettingsPage.php:470
+msgid "You may use safe HTML tags such as links, paragraphs, lists, strong, em and line breaks."
+msgstr "Можеш да използваш безопасни HTML тагове като линкове, абзаци, списъци, strong, em и нови редове."
+
+#: includes/API/AjaxTestEmail.php:110
+msgid "wp_mail returned false while sending the test email."
+msgstr "wp_mail върна false при изпращането на тестовия имейл."
+
+#: includes/Admin/FooterRenderer.php:35
+msgid "© %1$s All rights reserved. | Developed by %2$s"
+msgstr "© %1$s Всички права запазени. | Разработено от %2$s"
+
+#: includes/Admin/LogsPage.php:471
+msgid "« Previous"
+msgstr "« Предишна"
